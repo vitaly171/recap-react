@@ -1,5 +1,5 @@
 {
-  "name": "react-default",
+  "name": "recap-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitaly171/react-default.git"
+    "url": "git+https://github.com/vitaly171/recap-react.git"
   },
   "author": "Vitaly Ivlev <vitaly.ivlev5@gmail.com>",
   "bugs": {
-    "url": "https://github.com/vitaly171/react-default/issues"
+    "url": "https://github.com/vitaly171/recap-react/issues"
   },
-  "homepage": "https://vitaly171.github.io/react-default",
+  "homepage": "https://vitaly171.github.io/recap-react",
   "eslintConfig": {
     "extends": [
       "react-app",
